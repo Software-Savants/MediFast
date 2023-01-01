@@ -1,5 +1,5 @@
 # MediFast
-MediFast is a web app for fast and convenient medicine delivery. It allows users to browse and select from a list of available doctors, view their specialties and hours of operation, and schedule appointments with them. The app also allows users to place orders for medicine delivery and track the status of their orders in real-time.
+MediFast is a web app for fast and convenient medicine delivery. It allows users to browse and select from a list of available doctors, view their specialties and hours of operation, and schedule appointments with them. The app also allows users to place orders for medicine delivery and track the status of their orders in real-time. Delivery tracking 
 
 ## Prerequisites
 * PHP 7.4 or higher
